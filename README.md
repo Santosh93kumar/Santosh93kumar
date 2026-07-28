@@ -96,16 +96,6 @@ A scalable video streaming platform inspired by **YouTube** and **Instagram Reel
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Santosh93kumar&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santosh93kumar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh93kumar&layout=compact&theme=tokyonight)
-
----
-
 # 🎯 Current Focus
 
 - 🚀 Backend Architecture & System Design
@@ -123,8 +113,8 @@ A scalable video streaming platform inspired by **YouTube** and **Instagram Reel
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/santosh-kumar-42842b25b/
+- 📧 Email: sk8065788@gmail.com
 - 🌐 Portfolio: YOUR_PORTFOLIO
 
 ---
